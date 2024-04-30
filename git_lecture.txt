@@ -1,0 +1,2 @@
+git init - ? start the git
+git status -> tell use the status of files
